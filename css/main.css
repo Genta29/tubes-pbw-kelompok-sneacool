@@ -1,0 +1,301 @@
+.c_mac-book-pro1423-frame {
+  width: 100%;
+  overflow: hidden;
+  max-width: 1512px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #fff;
+}
+
+.c_mac-book-pro1423-ellipse {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 576px;
+  border-radius: 100%;
+}
+
+.c_mac-book-pro1423-text {
+  width: 100%;
+  max-width: 87px;
+  margin-top: 0;
+  min-height: 54px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_mac-book-pro1423-text01,
+.c_mac-book-pro1423-text02 {
+  color: #000;
+  font-size: 16px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_mac-book-pro1423-text02 {
+  font-weight: 400;
+}
+
+.c_mac-book-pro1423-ellipse1,
+.c_mac-book-pro1423-ellipse2 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 312px;
+  border-radius: 100%;
+}
+
+.c_mac-book-pro1423-ellipse2 {
+  max-width: 166px;
+}
+
+.c_mac-book-pro1423-rectangle {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 417px;
+}
+
+.c_mac-book-pro1423-rectangle1,
+.c_mac-book-pro1423-rectangle2,
+.c_mac-book-pro1423-rectangle3 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 350px;
+}
+
+.c_mac-book-pro1423-rectangle3 {
+  max-width: 415px;
+}
+
+.c_mac-book-pro1423-text03 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_mac-book-pro1423-text04,
+.c_mac-book-pro1423-text05 {
+  color: #000;
+  font-size: 64px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_mac-book-pro1423-text06 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_mac-book-pro1423-text07 {
+  color: #000;
+  font-size: 24px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_mac-book-pro1423-text08 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_mac-book-pro1423-text09 {
+  color: #000;
+  font-size: 24px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_mac-book-pro1423-text10 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_mac-book-pro1423-text11 {
+  color: #000;
+  font-size: 20px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_mac-book-pro1423-text12 {
+  width: 100%;
+  max-width: 446px;
+  margin-top: 0;
+  min-height: 157px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_mac-book-pro1423-text13,
+.c_mac-book-pro1423-text14 {
+  color: #000;
+  font-size: 16px;
+  font-style: normal;
+  font-family: "Poppins", sans-serif;
+  line-height: normal;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_mac-book-pro1423-text13 {
+  margin-top: 0;
+  text-align: left;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+
+.c_mac-book-pro1423-text14 {
+  font-weight: 400;
+}
+
+.c_mac-book-pro1423-text14,
+.c_mac-book-pro1423-text15,
+.c_mac-book-pro1423-text16,
+.c_mac-book-pro1423-text17 {
+  margin-top: 0;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_mac-book-pro1423-text17 {
+  width: 100%;
+  max-width: 446px;
+  min-height: 54px;
+}
+
+.c_mac-book-pro1423-text18,
+.c_mac-book-pro1423-text19 {
+  color: #000;
+  font-size: 16px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_mac-book-pro1423-text19 {
+  font-weight: 400;
+}
+
+.c_mac-book-pro1423-rectangle4,
+.c_mac-book-pro1423-rectangle5 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 113px;
+}
+
+.c_mac-book-pro1423-rectangle5 {
+  max-width: 115px;
+}
+
+.c_mac-book-pro1423-rectangle6,
+.c_mac-book-pro1423-rectangle7 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 102px;
+}
+
+.c_mac-book-pro1423-rectangle7 {
+  max-width: 117px;
+}
+
+.c_mac-book-pro1423-frame1 {
+  width: 100%;
+  overflow: hidden;
+  max-width: 19px;
+  transform: rotate(179.35deg);
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.c_mac-book-pro1423-text20 {
+  width: 100%;
+  max-width: 92px;
+  margin-top: 0;
+  min-height: 16px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_mac-book-pro1423-text21 {
+  color: #6c6c6c;
+  font-size: 16px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
